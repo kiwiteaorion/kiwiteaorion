@@ -33,7 +33,7 @@ Recipe Website: First time working with API's, was a fun experience
 🤝 Let's Connect!
 💻 Fiverr Profile (Coming Soon!)
 🌐 LinkedIn (Add your LinkedIn if available)
-📧 Reach me at your-email@example.com
+📧 Reach me at imamovic.tari@gmail.com
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, contribute, or connect. Let’s build something amazing together! 😊
 
 <!---
