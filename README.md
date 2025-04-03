@@ -18,7 +18,7 @@ Movie Database: Web app for managing watchlists & favorites (API integration).
 
 Recipe Website: First API project, fun & interactive.
 
-Software RAID in Linux: Set up RAID 0 (OS) & RAID 5 (data).
+Port Scanner: First experience building a port scanner
 
 🌱 Learning & Goals
 📌 Advancing in front-end frameworks & software engineering.
